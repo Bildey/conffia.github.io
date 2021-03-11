@@ -1,0 +1,67 @@
+.insert-card, .query-card {
+    border: 3px solid white;
+    background-color: transparent;
+    height: 300px ;
+    padding: 0;
+    margin: 5px;
+    position: relative;
+    color: white;
+    justify-content: center;
+    align-content: center;
+    display: inline-block;
+
+
+  
+
+ 
+}
+.insert-card:hover, .query-card:hover { 
+
+    background-color: white;
+    color: orange;
+    border-color: orange;
+}
+
+
+
+body {
+    background-color: #000839 ;
+    margin: 0;
+    
+}
+
+.box {
+    margin: 17% 0% 0% 0%;
+    padding: 0;
+    color: white;
+    position: relative;
+
+}
+
+.icons {
+    top: 27%;
+    position: absolute;
+    right: 0%;
+    left: 0%;
+    bottom: 25%;
+ 
+   
+    padding: 0;
+}
+
+a , a:hover{
+    color: inherit;
+}
+
+#logoHorizontal {
+   height: 3rem;
+}
+
+#navBarOverrideColor {
+    background-color: white !important ;
+}
+.nav-link {
+    font-size:0.75rem;
+
+}
+

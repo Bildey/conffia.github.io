@@ -1,0 +1,78 @@
+nav {
+    height: 6%;
+  }
+  .container-fluid {
+    height: 100%;
+  }
+  .row {
+    height: 94%;
+   justify-content: center;
+
+  }
+
+  .divContentProps{
+      border-color: blue;
+      border-radius: 10px;
+  }
+
+  #navBarOverrideColor {
+    background-color: white !important ;
+ }  
+ #navbarNav {
+     justify-content: center;
+
+ }
+
+
+
+
+
+ li > *  {
+   margin: 30px;
+ }
+
+ a:link {
+    text-decoration: none !important ;
+ 
+  }
+  
+  a:visited {
+    text-decoration: none !important ;
+  }
+  
+  a:hover {
+    text-decoration: underline !important ; 
+    color:  #968c83  !important;
+  }
+  
+  a:active {
+    text-decoration: underline !important ;
+  }
+
+  table {
+
+    font-size: 11px;
+  
+  }
+  body{
+    overflow: hidden;
+  }
+  
+
+tbody {
+
+    height:65vh;
+    overflow:auto;
+}
+thead, tbody tr {
+
+    width:100%;
+
+}
+thead {
+    width: 100% 
+}
+table {
+    width:100%
+}
+

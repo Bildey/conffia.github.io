@@ -1,0 +1,44 @@
+.form-login {
+    margin-top: 15rem;
+    padding: 0;
+ 
+}
+
+.btn {
+   background-color: #00476b;
+   color:    #fff;
+   
+}
+
+.btn:hover {
+    color:  #968c83; 
+}
+
+.logo-div {
+    height: 20rem;
+}
+
+
+
+.logo-img{
+
+    width: 50rem;
+    height: 40rem;
+    position: relative;
+    margin-top: 3rem;
+    padding: 0;
+}
+
+body {
+    background-color: #fff;
+    margin: 0;
+}
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+     margin: 0;
+     padding: 0;
+}
